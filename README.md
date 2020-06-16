@@ -10,4 +10,4 @@ A few points to note when submitting PRs:
 
 - Tags are case sensitive
 - Links and emoji are optional
-- Code blocks support multilanguage syntax highlighting with ` ```language `
+- Code blocks support multilanguage syntax highlighting with ` ```language``` `
