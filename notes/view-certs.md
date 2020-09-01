@@ -27,3 +27,8 @@ If the remote server is not using SNI, then you can skip -servername parameter:
 ```bash
 openssl s_client -showcerts -connect www.example.com:443
 ```
+
+## View expiration date for all certificates
+```bash
+echo -e "NAMESPACE\tNAME\tEXPIRY" && oc get secrets --all-namespaces -o go-template='{{range .items}}{{if eq .type "kubernetes.io/tls"}}{{.metadata.namespace}}{{" "}}{{.metadata.name}}{{" "}}{{index .data "tls.crt"}}{{"\n"}}{{end}}{{end}}' | while read namespace name cert; do echo -en "$namespace\t$name\t"; echo $cert | base64 -d | openssl x509 -noout -enddate; done
+```
