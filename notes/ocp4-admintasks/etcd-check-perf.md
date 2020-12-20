@@ -10,6 +10,17 @@ link: https://access.redhat.com/solutions/4985441
 
 This command is useful if you need to check the performance of etcd.
 
+
+## OCP 4.5+
+
+Starting with OpenShift 4.5 there is a new recommended way to test the performance of etcd. The output reports whether the disk is fast enough to host etcd by comparing the 99th percentile of the fsync metric captured from the run to see if it is less than 10ms.
+
+> Run the follow command from a master node.
+
+```bash
+podman run --volume /var/lib/etcd:/var/lib/etcd:Z quay.io/openshift-scale/etcd-perf
+```
+
 ## OCP 4.4+
 
 > Run commands from a master node.
