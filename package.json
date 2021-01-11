@@ -19,7 +19,7 @@
     "gatsby": "^2.29.1",
     "gatsby-theme-code-notes": "1.15.1",
     "react": "^16.14.0",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.14.0"
   },
   "repository": {
     "type": "git",
