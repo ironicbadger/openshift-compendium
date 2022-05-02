@@ -1,13 +1,11 @@
 ---
-
 title: Creating a Custom ISO for Bare Metal Installations
-
-tags: 
- - Openshift 4
- - Installation
-
-emoji: 💿
-
+tags:
+  - Openshift 4
+  - Installation
+emoji: "\U0001F4BF"
+created: 2020-07-03T14:16:22.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 

@@ -4,8 +4,11 @@ tags:
   - Openshift 4
   - Admin Tasks
   - Secrets
-emoji: 🔒
-link: https://docs.openshift.com/container-platform/latest/openshift_images/managing_images/using-image-pull-secrets.html
+emoji: "\U0001F512"
+link: >-
+  https://docs.openshift.com/container-platform/latest/openshift_images/managing_images/using-image-pull-secrets.html
+created: 2020-07-02T19:11:48.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 The following are useful commands to manage secrets in OpenShift.

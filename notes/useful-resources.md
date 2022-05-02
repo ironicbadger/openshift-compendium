@@ -7,7 +7,9 @@ tags:
   - Terraform
   - Ignition
 emoji: ⌨️
-link: https://www.openshift.com/blog/
+link: 'https://www.openshift.com/blog/'
+created: 2020-09-22T16:40:17.000Z
+modified: 2020-09-22T16:40:17.000Z
 ---
 
 ## Git Repos

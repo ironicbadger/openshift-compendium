@@ -4,7 +4,9 @@ tags:
   - Openshift 4
   - RHCOS
   - Troubleshooting
-emoji: 🧰
+emoji: "\U0001F9F0"
+created: 2020-06-17T13:17:24.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 For debugging purposes, install a package that is not installed in RHCOS nor toolbox by default.

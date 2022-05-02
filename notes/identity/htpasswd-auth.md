@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Configuration
   - Secrets
-emoji: 🤐
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F910"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T15:57:09.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 # Add HTPasswd authentication 

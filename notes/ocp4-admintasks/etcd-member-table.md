@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Admin Tasks
   - etcd
-emoji: 🧹
-link: https://access.redhat.com/solutions/4985441
+emoji: "\U0001F9F9"
+link: 'https://access.redhat.com/solutions/4985441'
+created: 2020-06-14T04:06:49.000Z
+modified: 2020-09-30T16:28:22.000Z
 ---
 
 This command is useful if you need to display the members of an etcd cluster in a table view.

@@ -4,7 +4,9 @@ tags:
   - Openshift 4
   - Admin Tasks
   - Secrets
-emoji: 🚀
+emoji: "\U0001F680"
+created: 2020-07-15T16:02:27.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 Retrieve the ignition files used for the purposes of adding new nodes to the cluster.

@@ -3,7 +3,9 @@ title: View certificates
 tags:
   - Troubleshooting
   - Certificates
-emoji: 🎓
+emoji: "\U0001F393"
+created: 2020-06-27T23:49:42.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 The following are useful commands to view certificates to assist in troubleshooting.

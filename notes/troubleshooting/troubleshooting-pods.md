@@ -3,7 +3,9 @@ title: Troubleshooting Running and Terminated Pods
 tags:
   - Openshift 4
   - Troubleshooting
-emoji: 🧰
+emoji: "\U0001F9F0"
+created: 2020-08-15T19:41:14.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 All containers, even those that run for a short period to time, generate logs. These logs are retained even after the container terminates. The following examples shows how to view the logs from inside the pod.

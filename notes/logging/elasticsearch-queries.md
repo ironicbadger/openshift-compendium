@@ -3,8 +3,10 @@ title: ElasticSearch queries
 tags:
   - Openshift 4
   - Logging
-emoji: 📜
-link: https://access.redhat.com/articles/5015121
+emoji: "\U0001F4DC"
+link: 'https://access.redhat.com/articles/5015121'
+created: 2020-10-09T16:00:26.000Z
+modified: 2020-10-09T16:00:26.000Z
 ---
 
 Display ElasticSearch indices:

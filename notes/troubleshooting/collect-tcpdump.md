@@ -1,15 +1,13 @@
 ---
-
 title: Collecting a tcpdump from a pod
-
-tags: 
- - Openshift 4
- - Networking
- - Troubleshooting
- - tcpdump
-
-emoji: 🔌
-
+tags:
+  - Openshift 4
+  - Networking
+  - Troubleshooting
+  - tcpdump
+emoji: "\U0001F50C"
+created: 2020-09-08T21:30:14.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 

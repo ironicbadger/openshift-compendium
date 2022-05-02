@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Capacity
   - Images
-emoji: 🎞️
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F39E️"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T15:34:35.000Z
+modified: 2020-09-22T16:03:44.000Z
 ---
 
 ## List all container images running in a cluster

@@ -3,8 +3,10 @@ title: Modify vSphere Credentials
 tags:
   - Openshift 4
   - VMWare
-emoji: 💾
-link: https://access.redhat.com/solutions/4618011
+emoji: "\U0001F4BE"
+link: 'https://access.redhat.com/solutions/4618011'
+created: 2020-06-14T03:17:19.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 How to modify vsphere credentials in Openshift 4 after the cluster has been created. A full explanation is available in the solution linked above, this article also covers changing the default datastore.

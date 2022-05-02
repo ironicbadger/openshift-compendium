@@ -5,8 +5,10 @@ tags:
   - RHCOS
   - Upgrade
   - Troubleshooting
-emoji: 🧰
-link: https://access.redhat.com/solutions/5414371
+emoji: "\U0001F9F0"
+link: 'https://access.redhat.com/solutions/5414371'
+created: 2020-07-30T16:40:55.000Z
+modified: 2020-11-05T20:00:57.000Z
 ---
 
 During an upgrade, due to issues, the wrong RHCOS image may be booted to.  When the user performs an `oc describe node`, the error shown is `unexpected on-disk state validating against rendered-worker`.  While the following steps aren't intended to determine root cause of the issue, they may be used as a quick fix to recover and successfully upgrade.

@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Images
   - Admin Tasks
-emoji: 💾
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F4BE"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T16:03:44.000Z
+modified: 2020-09-22T16:03:44.000Z
 ---
 
 # Get raw disk usage of all images per namespace

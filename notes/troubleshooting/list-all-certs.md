@@ -3,7 +3,9 @@ title: List all OpenShift Internal Certificates
 tags:
   - Troubleshooting
   - Certificates
-emoji: 🎓
+emoji: "\U0001F393"
+created: 2020-09-01T15:19:06.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 The following is a useful command that will print all internal certificates on OpenShift 4 including their namespace, secret name, and expiration date of the certificate.

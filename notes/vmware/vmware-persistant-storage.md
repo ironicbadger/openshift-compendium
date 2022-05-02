@@ -3,8 +3,10 @@ title: VMware UPI Dynamic Storage Folder
 tags:
   - Openshift 4
   - VMWare
-emoji: 💾
-link: https://access.redhat.com/solutions/4563591
+emoji: "\U0001F4BE"
+link: 'https://access.redhat.com/solutions/4563591'
+created: 2020-08-06T02:18:50.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 With a VMware UPI installation you have to create a specific folder matching the cluster name specified in `install-config.yaml` under the `metadata.name` key, plus a unique identifier. More details are in the KCS linked above.

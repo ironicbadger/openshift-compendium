@@ -3,7 +3,9 @@ title: Configure Insecure Registries
 tags:
   - Openshift 4
   - Registry
-emoji: 🎓
+emoji: "\U0001F393"
+created: 2020-11-19T16:53:02.000Z
+modified: 2020-11-19T16:53:02.000Z
 ---
 
 To add insecureRegistries you will need to edit the images.config.openshift.io cluster resource. Use the example below as reference.

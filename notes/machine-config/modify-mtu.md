@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Configuration
   - Admin Tasks
-emoji: 🦙
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F999"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T16:09:54.000Z
+modified: 2020-09-22T16:09:54.000Z
 ---
 
 # Modify MTU in a second interface in workers

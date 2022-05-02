@@ -5,7 +5,8 @@ tags:
   - Admin Tasks
   - Configuration
 emoji: ⚙️
-#link: https://access.redhat.com/solutions/4985441
+created: 2020-09-22T15:57:09.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 ## OCP Master configuration

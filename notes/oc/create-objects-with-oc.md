@@ -3,8 +3,10 @@ title: Deployment var management tips
 tags:
   - Openshift 4
   - oc
-emoji: 🗂️
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F5C2️"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T18:45:35.000Z
+modified: 2020-09-22T18:45:35.000Z
 ---
 
 # Create objects using bash `here documents`

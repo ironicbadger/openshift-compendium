@@ -4,7 +4,9 @@ tags:
   - Openshift 4
   - Capacity
 emoji: ⌨️
-link: https://github.com/hjacobs/kube-ops-view
+link: 'https://github.com/hjacobs/kube-ops-view'
+created: 2020-06-16T15:58:32.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 Want to know how full your cluster is? Or get a vague idea of what is running where? `kube-ops-view` is a simple dashboard that lets you visualize this.
