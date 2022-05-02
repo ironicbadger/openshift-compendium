@@ -3,8 +3,10 @@ title: Add workers to a ControlPlane only cluster
 tags:
   - Openshift 4
   - Admin Tasks
-emoji: 🎓
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F393"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T15:34:35.000Z
+modified: 2020-09-22T15:34:35.000Z
 ---
 
 ## Change cluster type

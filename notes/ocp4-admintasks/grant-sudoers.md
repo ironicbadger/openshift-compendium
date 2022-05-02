@@ -1,10 +1,13 @@
 ---
-title: Grant Users ability to run --as system:admin
+title: 'Grant Users ability to run --as system:admin'
 tags:
   - Openshift 4
   - Admin Tasks
-emoji: 🔒
-link: https://docs.openshift.com/container-platform/4.6/authentication/impersonating-system-admin.html
+emoji: "\U0001F512"
+link: >-
+  https://docs.openshift.com/container-platform/4.6/authentication/impersonating-system-admin.html
+created: 2020-11-19T16:53:02.000Z
+modified: 2020-11-19T16:53:02.000Z
 ---
 
 There are situations where you want a user to have the ability to run commands but you do not wish to grant them `cluster-admin` privileges. To do this you can add the `sudoer` cluster role to a user.

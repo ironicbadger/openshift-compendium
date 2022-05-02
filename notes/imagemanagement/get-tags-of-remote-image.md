@@ -3,8 +3,11 @@ title: Get tags of remote images
 tags:
   - Openshift 4
   - Images
-emoji: 🏷️
-link: https://docs.openshift.com/container-platform/4.5/openshift_images/managing_images/tagging-images.html
+emoji: "\U0001F3F7️"
+link: >-
+  https://docs.openshift.com/container-platform/4.5/openshift_images/managing_images/tagging-images.html
+created: 2020-09-22T16:03:44.000Z
+modified: 2020-09-22T16:03:44.000Z
 ---
 
 ### Get tags from a particular image in a particular container image registry

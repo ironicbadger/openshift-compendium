@@ -4,8 +4,11 @@ tags:
   - Openshift 4
   - Admin Tasks
   - Upgrade
-emoji: 🧰
-link: https://github.com/openshift/cluster-version-operator/blob/master/docs/dev/clusterversion.md#setting-objects-unmanaged
+emoji: "\U0001F9F0"
+link: >-
+  https://github.com/openshift/cluster-version-operator/blob/master/docs/dev/clusterversion.md#setting-objects-unmanaged
+created: 2020-09-22T15:57:09.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 # Switch clusterversion channel

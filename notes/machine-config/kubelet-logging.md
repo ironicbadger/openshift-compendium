@@ -3,8 +3,10 @@ title: Kubelet logging verbosity
 tags:
   - Openshift 4
   - Configuration
-emoji: 🗂️
-link: https://access.redhat.com/solutions/4619431
+emoji: "\U0001F5C2️"
+link: 'https://access.redhat.com/solutions/4619431'
+created: 2020-10-26T13:53:52.000Z
+modified: 2020-10-26T13:53:52.000Z
 ---
 
 ## Kubelet logging verbosity

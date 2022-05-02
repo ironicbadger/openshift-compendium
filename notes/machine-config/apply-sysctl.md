@@ -4,8 +4,11 @@ tags:
   - Openshift 4
   - Configuration
   - Admin Tasks
-emoji: 🗂️
-link: https://docs.openshift.com/container-platform/4.5/nodes/nodes/nodes-node-tuning-operator.html
+emoji: "\U0001F5C2️"
+link: >-
+  https://docs.openshift.com/container-platform/4.5/nodes/nodes/nodes-node-tuning-operator.html
+created: 2020-09-22T16:09:54.000Z
+modified: 2020-09-22T16:09:54.000Z
 ---
 
 ## Apply sysctl tweaks to nodes

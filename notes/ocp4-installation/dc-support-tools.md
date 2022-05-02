@@ -4,7 +4,9 @@ tags:
   - Openshift 4
   - Disconnected
   - Troubleshooting
-emoji: 🧰
+emoji: "\U0001F9F0"
+created: 2020-07-20T19:49:53.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 To perform `oc adm debug node` in a restricted network, copy these support tools images from upstream to your mirror Docker repository:

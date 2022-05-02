@@ -6,8 +6,10 @@ tags:
   - Admin Tasks
   - Installation
   - Tools
-emoji: 🔧
-link: https://github.com/cptmorgan-rh/install-oc-tools
+emoji: "\U0001F527"
+link: 'https://github.com/cptmorgan-rh/install-oc-tools'
+created: 2020-09-22T18:45:35.000Z
+modified: 2020-09-22T18:45:35.000Z
 ---
 
 Easily switch the version of `oc` you are using with this tool. Full docs at the link above.

@@ -5,8 +5,11 @@ tags:
   - Disconnected
   - Registry
   - Upgrade
-emoji: 🔌
-link: https://docs.openshift.com/container-platform/latest/installing/install_config/installing-restricted-networks-preparations.html#installation-mirror-repository_installing-restricted-networks-preparations
+emoji: "\U0001F50C"
+link: >-
+  https://docs.openshift.com/container-platform/latest/installing/install_config/installing-restricted-networks-preparations.html#installation-mirror-repository_installing-restricted-networks-preparations
+created: 2020-06-17T21:35:52.000Z
+modified: 2020-11-05T16:14:32.000Z
 ---
 
 Commands to mirror registry for a disconnected cluster:

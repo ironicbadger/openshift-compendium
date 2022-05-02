@@ -4,8 +4,11 @@ tags:
   - Openshift 4
   - Troubleshooting
   - SDN
-emoji: 🌐
-link: https://docs.openshift.com/container-platform/4.5/networking/openshift_sdn/about-openshift-sdn.html
+emoji: "\U0001F310"
+link: >-
+  https://docs.openshift.com/container-platform/4.5/networking/openshift_sdn/about-openshift-sdn.html
+created: 2020-09-22T15:57:09.000Z
+modified: 2020-09-22T15:57:09.000Z
 ---
 
 # Observe the SDN configuration

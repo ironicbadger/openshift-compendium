@@ -5,8 +5,10 @@ tags:
   - Admin Tasks
   - Cleanup
   - Capacity
-emoji: 🧹
-link: https://docs.openshift.com/
+emoji: "\U0001F9F9"
+link: 'https://docs.openshift.com/'
+created: 2020-06-14T04:06:39.000Z
+modified: 2020-11-19T16:53:02.000Z
 ---
 
 ## Delete all 'Completed' pods

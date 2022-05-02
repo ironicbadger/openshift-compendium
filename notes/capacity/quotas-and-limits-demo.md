@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Capacity
   - Quota
-emoji: 🔢
-link: https://github.com/kevchu3/quotas-and-limits-demo
+emoji: "\U0001F522"
+link: 'https://github.com/kevchu3/quotas-and-limits-demo'
+created: 2020-07-06T20:09:13.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 Full text and examples at the link above.

@@ -1,10 +1,12 @@
 ---
-title: Download and extract oc, kubectl and openshift-install one liner
+title: 'Download and extract oc, kubectl and openshift-install one liner'
 tags:
   - Openshift 4
   - oc
-emoji: 🔧
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F527"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T18:45:35.000Z
+modified: 2020-09-22T18:45:35.000Z
 ---
 
 # Download and extract oc, kubectl and openshift-install one liner

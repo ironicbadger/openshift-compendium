@@ -33,3 +33,10 @@ emoji: 🧹
 link: https://access.redhat.com/solutions/4985441
 ---
 ```
+
+## Dev environment
+
+* Ensure you have npm installed
+* Then `npm install -g gatsby-cli` 
+* Followed by `npm install` to update local package info
+* To build the site run `gatsby build` and to serve it `gatsby serve`

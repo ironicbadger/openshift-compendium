@@ -5,8 +5,11 @@ tags:
   - Admin Tasks
   - Certificates
   - CSRs
-emoji: 🎓
-link: https://docs.openshift.com/container-platform/4.5/machine_management/user_infra/adding-vsphere-compute-user-infra.html#installation-approve-csrs_adding-vsphere-compute-user-infra
+emoji: "\U0001F393"
+link: >-
+  https://docs.openshift.com/container-platform/4.5/machine_management/user_infra/adding-vsphere-compute-user-infra.html#installation-approve-csrs_adding-vsphere-compute-user-infra
+created: 2020-06-14T03:17:19.000Z
+modified: 2020-09-22T15:34:35.000Z
 ---
 
 CSR stands for Certificate Signing Request.

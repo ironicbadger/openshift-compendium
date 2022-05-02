@@ -3,8 +3,10 @@ title: Disable reboots with machine-config-operator
 tags:
   - Openshift 4
   - Configuration
-emoji: 📠
-link: https://docs.openshift.com/container-platform
+emoji: "\U0001F4E0"
+link: 'https://docs.openshift.com/container-platform'
+created: 2020-09-22T16:09:54.000Z
+modified: 2020-09-22T16:09:54.000Z
 ---
 
 ## Disable auto rebooting after a change with the machine-config-operator

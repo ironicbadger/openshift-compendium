@@ -4,7 +4,10 @@ tags:
   - Openshift 4
   - Installation
 emoji: ⌨️
-link: https://docs.openshift.com/container-platform/4.4/installing/installing_bare_metal/installing-bare-metal.html#installation-bare-metal-config-yaml_installing-bare-metal
+link: >-
+  https://docs.openshift.com/container-platform/4.4/installing/installing_bare_metal/installing-bare-metal.html#installation-bare-metal-config-yaml_installing-bare-metal
+created: 2020-06-14T03:59:04.000Z
+modified: 2020-09-22T13:49:21.000Z
 ---
 
 > Last updated for OpenShift 4.4

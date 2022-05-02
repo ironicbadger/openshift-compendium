@@ -4,8 +4,10 @@ tags:
   - Openshift 4
   - Admin Tasks
   - etcd
-emoji: 🧹
-link: https://access.redhat.com/solutions/4287111
+emoji: "\U0001F9F9"
+link: 'https://access.redhat.com/solutions/4287111'
+created: 2020-09-28T14:17:37.000Z
+modified: 2020-09-28T21:00:22.000Z
 ---
 
 # Create an Infra node for OCP4
