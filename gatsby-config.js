@@ -14,6 +14,7 @@ module.exports = {
         showThemeInfo: false,
         gitRepoContentPath: 'https://github.com/IronicBadger/openshift-compendium/tree/dev/notes/',
         showDescriptionInSidebar: true,
+        showDate: false,
       },
     },
   ],
